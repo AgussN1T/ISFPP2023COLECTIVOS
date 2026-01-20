@@ -3,33 +3,23 @@
 
 Aplicación de escritorio desarrollada en Java para el cálculo de recorridos óptimos en una red de colectivos urbanos.
 El sistema permite consultar el camino más corto entre dos paradas, considerando horarios, frecuencias y la cantidad máxima de cambios de línea, brindando al usuario distintas alternativas de recorrido.
-
-Además, incluye funcionalidades para la administración de líneas, paradas y tramos, modelando la red de transporte mediante grafos dirigidos y aplicando algoritmos de caminos mínimos.
+Además, incluye funcionalidades para la administración de líneas, paradas y tramos, modelando la red de transporte mediante grafos dirigidos.
 
 Contexto Académico
-
 Este proyecto fue desarrollado como parte de una instancia supervisada de formación y prácticas profesionales, correspondiente a la materia Programación Orientada a Objetos.
-Se aplican principios de POO y patrones de diseño como MVC, DAO, Singleton y Observer, priorizando una arquitectura clara, modular y mantenible.
-
+Se aplican principios de POO y patrones de diseño como MVC, DAO, Singleton y Observer.
 El sistema fue realizado íntegramente como proyecto académico universitario.
 
 Funcionalidades Principales
-
 Cálculo de recorridos óptimos entre dos paradas.
-
 Posibilidad de limitar la cantidad de cambios de línea.
-
 Estimación de horarios de llegada según frecuencia y duración de tramos.
-
 Visualización clara de los recorridos sugeridos.
-
 Administración de líneas, paradas y tramos (ABM).
-
 Validación de datos de entrada y mensajes de error amigables.
-
 Persistencia de datos mediante el patrón DAO.
 
-Tecnologías Utilizadas:
+Tecnologías Utilizadas
 Lenguaje de programación: Java SE
 Interfaz gráfica: Java Swing
 Base de datos: PostgreSQL
