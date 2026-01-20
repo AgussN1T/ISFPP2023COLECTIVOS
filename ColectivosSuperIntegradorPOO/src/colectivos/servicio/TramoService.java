@@ -1,0 +1,17 @@
+package colectivos.servicio;
+
+import java.util.List;
+
+import colectivos.modelo.Tramo;
+
+public interface TramoService {
+
+	void insertar(Tramo tramo);
+
+	void actualizar(Tramo tramo);
+
+	void borrar(Tramo tramo);
+
+	List<Tramo> buscarTodos();
+
+}

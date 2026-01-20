@@ -1,0 +1,10 @@
+colectivos.aplicacion
+colectivos.conexion
+colectivos.dao
+colectivos.dao.secuencial
+colectivos.GUI
+colectivos.modelo
+colectivos.negocio
+colectivos.servicio
+colectivos.util
+test

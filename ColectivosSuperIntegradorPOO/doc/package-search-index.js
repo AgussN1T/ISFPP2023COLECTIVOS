@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"colectivos.aplicacion"},{"l":"colectivos.conexion"},{"l":"colectivos.dao"},{"l":"colectivos.dao.secuencial"},{"l":"colectivos.GUI"},{"l":"colectivos.modelo"},{"l":"colectivos.negocio"},{"l":"colectivos.servicio"},{"l":"colectivos.util"},{"l":"test"}];updateSearchResults();
