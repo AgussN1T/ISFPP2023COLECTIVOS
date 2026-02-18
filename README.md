@@ -25,7 +25,7 @@ Interfaz gráfica: Java Swing
 Base de datos: PostgreSQL
 Acceso a datos: DAO
 Modelado de grafos: JGraphT
-Patrones de diseño: MVC, DAO, Singleton, Observer
+Patrones de diseño: MVC, DAO, Singleton, Observer, Factory
 IDE: Eclipse IDE
 
 Requisitos para Ejecución
